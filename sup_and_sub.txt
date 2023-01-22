@@ -1,0 +1,10 @@
+<html>
+<head> <title> sub / sup tag </title>
+</head>
+<body> 
+	O<sub>2</sub>
+<br>
+<br>
+                O<sup>2</sup>
+</body>
+</html>

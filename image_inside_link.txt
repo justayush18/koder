@@ -1,0 +1,10 @@
+<html> 
+ <head> <title>image inside link</title>
+ </head>
+   <body>
+
+ <a href="https://www.youtube.com/" target="_main">
+<img src="C:\Users\Admin\Desktop\Downloads\315199744_1243191379951311_6440318365923977380_n.webp.jpg" alt="this is link of an harry's website" >
+harry </a>
+   </body>
+</html>

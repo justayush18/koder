@@ -1,0 +1,16 @@
+<html> 
+ <head> <title> </title>
+ </head>
+   <body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/myh5xtfUG-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
+
+
+<!--prcoess:- 1.go to www.youtube.com
+                     2.click on shere button of any video(there is one option after click on share button)
+	     3.option is name"embed"
+	     4.copy code that will provide you after click 
+                     5.paste into where u want
+	     6.over remaining tags
+	     7.done -->

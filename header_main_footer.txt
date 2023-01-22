@@ -1,0 +1,15 @@
+<html> 
+ <head> <title>header/main/footer </title>
+ </head>
+   <body>
+ <header>
+	this is header
+ </header>
+  <main>
+	this is main content
+  </main>
+    <footer>
+	this is footer
+    </footer>
+   </body>
+</html>

@@ -1,0 +1,30 @@
+<html> 
+ <head> <title> div tag </title>
+ </head>
+   <body>
+<header>
+    <nav>
+  	home
+	about
+	contect us 
+    </nav>
+</header>
+  <main> 
+     <section>
+	<div>
+		<center>
+   		<h1> GOJO SATORU </h1>
+		</center>
+		<p>Satoru Gojo is a fictional character from Gege Akutami's manga Jujutsu Kaisen. He was first introduced in Akutami's short series Tokyo Metropolitan Curse Technical School as the mentor of the cursed teenager Yuta Okkotsu at Tokyo Prefectural Jujutsu High School.</p>
+		
+	</div>
+
+	 <div>
+		<center>
+		<h1> YUJI ITADORI </h1>
+		</center>
+		<p>Yuji Itadori (Japanese: Hepburn: Itadori Yuji) is a fictional character and the main protagonist of the manga series Jujutsu Kaisen created by Gege Akutami.</p>
+		
+	 </div>
+   </body>
+</html>
